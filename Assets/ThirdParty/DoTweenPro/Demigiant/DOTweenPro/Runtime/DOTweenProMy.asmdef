@@ -1,0 +1,19 @@
+{
+    "name": "DOTweenProMy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ed053b7fc4de9844e9a353704ee3ddb8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTweenPro.dll",
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
